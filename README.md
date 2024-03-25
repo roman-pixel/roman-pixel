@@ -1,4 +1,8 @@
-# 💫 About Me:
+<div align="center">
+    <img width="100" src="logo.png" alt="Logo" />
+</div>
+
+<h1 align="center">💫 About Me</h1>
 
 ## Hi there! 👋<br>I'm Roman Sadov<br>Frontend Engineer 👨‍💻
 
