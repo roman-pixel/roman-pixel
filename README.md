@@ -48,4 +48,4 @@
 ![macOS](https://img.shields.io/badge/-macOS-282828?logo=macos&logoColor=white)
 
 [linkedin]: https://www.linkedin.com/in/romanwebdev-it/
-[telegram]: https://t.me/hjvfybj
+[telegram]: https://t.me/romanwebdev_it
