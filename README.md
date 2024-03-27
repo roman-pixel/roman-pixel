@@ -43,9 +43,6 @@
 ![npm](https://img.shields.io/badge/-npm-282828?logo=npm&logoColor=cc0100)
 ![Node.js](https://img.shields.io/badge/-Node.js-282828?logo=node.js&logoColor=339933)
 ![Git](https://img.shields.io/badge/-Git-282828?logo=git&logoColor=f05032)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-282828?logo=visual-studio-code&logoColor=007acc)
-![Figma](https://img.shields.io/badge/-Figma-282828?logo=figma&logoColor=f24e1e)
-![macOS](https://img.shields.io/badge/-macOS-282828?logo=macos&logoColor=white)
 
 [linkedin]: https://www.linkedin.com/in/romanwebdev-it/
 [telegram]: https://t.me/romanwebdev_it
