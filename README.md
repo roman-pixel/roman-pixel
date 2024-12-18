@@ -66,5 +66,12 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to romanwebde
 [<img src="https://img.shields.io/badge/-Telegram-26a5e4?logo=telegram&logoColor=white" alt="Telegram" />][telegram]
 [<img src="https://img.shields.io/badge/-Gmail-ea4335?logo=gmail&logoColor=white" alt="Gmail" />](mailto:romanwebdev.it@gmail.com)
 
+## GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-pixel&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=roman-pixel&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+---
+
 [linkedin]: https://www.linkedin.com/in/romanwebdev-it/
 [telegram]: https://t.me/romanwebdev_it
